@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IRobot", "IRobot\IRobot.csproj", "{61F950F6-E18E-43FB-98D2-1D27A1E9F641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F950F6-E18E-43FB-98D2-1D27A1E9F641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61F950F6-E18E-43FB-98D2-1D27A1E9F641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61F950F6-E18E-43FB-98D2-1D27A1E9F641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61F950F6-E18E-43FB-98D2-1D27A1E9F641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
