@@ -1,0 +1,4 @@
+F:\PD\TCC\irobot-bg\IRobot\IRobot\bin\Debug\IRobot.dll
+F:\PD\TCC\irobot-bg\IRobot\IRobot\bin\Debug\IRobot.pdb
+F:\PD\TCC\irobot-bg\IRobot\IRobot\obj\Debug\IRobot.dll
+F:\PD\TCC\irobot-bg\IRobot\IRobot\obj\Debug\IRobot.pdb
