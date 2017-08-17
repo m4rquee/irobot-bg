@@ -5,7 +5,7 @@ namespace BitsGalaxy {
         public string actionName;
         public List<object> args;
 
-        public ActionBlock (string actionName, List<object> args) {
+        public ActionBlock(string actionName, List<object> args) {
             this.actionName = actionName;
             this.args = args;
         }
