@@ -1,1 +1,13 @@
-﻿<Properties StartupItem="IRobot\IRobot.csproj" />
+﻿<Properties StartupItem="IRobot\IRobot.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="IRobot\ActionBlock.cs">
+    <Files>
+      <File FileName="IRobot\ActionBlock.cs" Line="5" Column="34" />
+      <File FileName="IRobot\IRobot.cs" Line="5" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
