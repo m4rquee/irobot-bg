@@ -2,6 +2,6 @@
 
 namespace BitsGalaxy {
     public interface IRobot {
-        ActionBlock update(State s);
+        ActionBlock Update(State s);
     }
 }
